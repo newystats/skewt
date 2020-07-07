@@ -3,3 +3,4 @@
 
 # Export all names
 exportPattern(".")
+importFrom("stats", "dt", "pt", "qt", "runif")
