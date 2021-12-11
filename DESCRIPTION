@@ -5,7 +5,7 @@ Title: The Skewed Student-t Distribution
 Authors@R:  
   c(person(given="Robert",family="King",
       role=c("aut","cre"),
-      email="Robert.King.newcastle@gmail.com",
+      email="Robert.King.Newcastle@gmail.com",
       comment=c(ORCID="0000-0001-7495-6599")),
     person(given="Emily",family="Anderson",role="aut")
     )
